@@ -1,3 +1,4 @@
-print('Hello, world')
-print('Opa, editei...')
-print('Opa, editei...')
+# Permite escever um comentário
+print() #Na frente
+# Abaixo
+print(123)
